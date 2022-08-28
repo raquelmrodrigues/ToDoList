@@ -1,6 +1,6 @@
 # Projeto to do list 
 
-### Esse projeto foi baseado em uma lista de tarefas, onde você pode criar uma nova tarefa e marca-las após concluídas,
+### Esse projeto conciste em uma lista de tarefas, onde você pode criar uma nova tarefa e marca-la como feita após concluídas,
 ### quando marcada a tarefa muda sua cor bem como seu icone de verificação.
 
 ### Tecnologias utilizadas 
