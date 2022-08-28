@@ -1,4 +1,4 @@
-# Projeto to do list 
+# Projeto To Do List 
 
 ### Esse projeto conciste em uma lista de tarefas, onde você pode criar uma nova tarefa e marca-la como feita após concluídas,
 ### quando marcada a tarefa muda sua cor bem como seu icone de verificação.
